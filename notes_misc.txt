@@ -1,0 +1,27 @@
+!! VsCode extentions:
+    % 1. Note
+    % 2. Prettier
+    % 3. vscode-icons
+    % 4. Live Preview
+
+!! WebSite resources:
+    % 1. Generate filler text:
+        x https://www.lipsum.com/
+    % 2. Difference checker
+        x https://www.diffchecker.com/
+    % 3. HTML Documentation
+        x https://developer.mozilla.org/en-US/docs/Web/HTML
+    % 4. Random Photos
+        x https://picsum.photos/
+    % 5. Color pallet 
+        x https://colorhunt.co/
+!! Github Specific:
+    % 1. Frontend hosting:
+        x   Log in.
+        x   Create a new Repo as public
+        x   Upload the content of the dir 
+        x   Settings/Pages
+        x   Branch -> Main
+        x   Wait some time.... there will be a link
+        x   Notes:
+            - This will work only with Frontend. HTML/CSS/JS. It cannot have backend or DB
